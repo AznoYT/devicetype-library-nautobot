@@ -56,13 +56,13 @@ interfaces:
 - name: 'TenGigabitEthernet1/0/20'
   type: 10gbase-t
 - name: 'TenGigabitEthernet1/0/21'
-  type: 10gbase-t
+  type: 10gbase-x-sfpp
 - name: 'TenGigabitEthernet1/0/22'
-  type: 10gbase-t
+  type: 10gbase-x-sfpp
 - name: 'TenGigabitEthernet1/0/23'
-  type: 10gbaset
+  type: 10gbase-x-sfpp
 - name: 'TenGigabitEthernet1/0/24'
-  type: 10gbase-t
+  type: 10gbase-x-sfpp
 - name: oob
   type: 1000base-t
   mgmt_only: true
